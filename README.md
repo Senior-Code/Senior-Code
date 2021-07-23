@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Senior-Code
 - 👀 I’m interested in being full-stack developer
-- 🌱 I’m currently learning C#, Flutter
+- 🌱 I’m currently learning C#, Flutter, JS, React, Node
 - 💞️ I’m looking to collaborate on any work that help me acheive being full-stack
 - 📫 How to reach me akriya.yang@gmail.com
 <!---
